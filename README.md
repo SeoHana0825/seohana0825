@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=00BFFF&section=header&text=wellcome%20%20😺&fontColor=000000)
-## こんにちは！ハナです。안녕하세요, 서하나입니다!
+## 안녕하세요, 서하나입니다!
 
 ### Get in Touch
 
